@@ -1,0 +1,35 @@
+h1{
+color: white;
+font-size: 20px;
+text-align: center;
+
+}
+
+h2{
+color: white;
+text-align: center;
+margin-top: 25px;
+}
+
+
+body {
+    margin: 0;
+    padding: 10px;
+    font-size: 30px;
+    font-family: "Roboto","Lucida Grande","DejaVu Sans","Bitstream Vera Sans","Verdana","Arial","sans-serif";
+    color: #333;
+    background: url('images/pure.png');
+}
+
+
+ul{
+color: white;
+font-size: 25px;
+text-align: center;
+}
+
+li{
+color: white;
+font-size: 20px;
+text-align: center;
+}
